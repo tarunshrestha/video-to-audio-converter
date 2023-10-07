@@ -1,0 +1,1 @@
+Dont make an virtual environment if u want to store the audio after conversion to other directories.
